@@ -1,0 +1,21 @@
+# Site settings
+title: Travelog
+subtitle: "Journal of Matthew Searle"
+email: "matthewjsearle@gmail.com"
+description: "Make the footer happy by entering a short description about yourself here"
+baseurl: ""
+url: ""
+twitter_username: "MattSNZ"
+github_username:  "MattSNZ"
+instagram_username: "MattSNZ"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
